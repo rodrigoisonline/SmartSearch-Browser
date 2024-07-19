@@ -10,8 +10,8 @@ class BrowserFrame(wx.Frame):
         self.browser = wx.html2.WebView.New(self)
         self.browser.LoadURL("http://www.duckduckgo.com")
         self.bookmarks = {
-            "Duck Bonus Lyft": "http://www.duckduckgo.com?q=drive-with-lyft?ref=",
-            "Google Bonus Lyft": "http://www.google.com/search?q=drive-with-lyft?ref="
+            "Duck Bonus Lyft": "http://www.duckduckgo.com?q=something=",
+            "Google Bonus Lyft": "http://www.google.com/search?q=something="
         }
 
         self.SetTransparent(240)  # Adjust the transparency level as desired
