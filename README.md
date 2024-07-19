@@ -42,7 +42,6 @@
                     <div>Navigation Controls: Includes back, forward, reload, home, and stop buttons, improving user experience.</div>
                     <div>Bookmarking: Allows users to bookmark pages for easy access later.</div>
                     <div>Custom Searches: Facilitates quick searches on DuckDuckGo and Google with predefined queries.</div>
-                    <div>Page Scanning: Automatically scans pages for specific URLs related to Lyft.</div>
                 </div>
             </section>
             <section class="section">
