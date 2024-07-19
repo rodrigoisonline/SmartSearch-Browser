@@ -44,10 +44,8 @@
                     <div>Custom Searches: Facilitates quick searches on DuckDuckGo and Google with predefined queries.</div>
                 </div>
             </section>
-            <section class="section">
-               
-            </section>
+
         </div>
-    </div>
+
 </body>
 </html>
