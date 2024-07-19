@@ -3,71 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SmartSearch Browser Overview</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            background-color: #f4f4f9;
-            color: #333;
-            margin: 0;
-            padding: 0;
-            line-height: 1.6;
-        }
-        .container {
-            width: 80%;
-            margin: 0 auto;
-            overflow: hidden;
-        }
-        header {
-            background: #333;
-            color: #fff;
-            padding-top: 30px;
-            min-height: 70px;
-            border-bottom: #ccc 3px solid;
-            text-align: center;
-        }
-        header h1 {
-            margin: 0;
-            font-size: 2em;
-        }
-        .main-content {
-            margin-top: 20px;
-        }
-        .section {
-            margin-bottom: 20px;
-        }
-        h2 {
-            background: #333;
-            color: #fff;
-            padding: 10px;
-            border-radius: 5px;
-        }
-        ul {
-            list-style-type: none;
-            padding: 0;
-        }
-        ul li {
-            margin: 10px 0;
-            padding: 10px;
-            background: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-        .advantages, .names {
-            display: flex;
-            flex-wrap: wrap;
-        }
-        .advantages div, .names div {
-            flex: 1;
-            min-width: 200px;
-            margin: 10px;
-            padding: 20px;
-            background: #fff;
-            border: 1px solid #ddd;
-            border-radius: 5px;
-        }
-    </style>
-</head>
+    
 <body>
     <header>
         <div class="container">
