@@ -46,14 +46,7 @@
                 </div>
             </section>
             <section class="section">
-                <h2>Cool Name Suggestions</h2>
-                <div class="names">
-                    <div>"LyftBrowser" – Emphasizes the focus on Lyft-related searches and URLs.</div>
-                    <div>"QuickSearch Navigator" – Highlights the search capabilities and navigation features.</div>
-                    <div>"WebExplorer" – A general name that reflects the web browsing and exploration features.</div>
-                    <div>"SmartSearch Browser" – Emphasizes the intelligent search and scanning functionalities.</div>
-                    <div>"Bookmark Navigator" – Focuses on the bookmarking and navigation aspects of the browser.</div>
-                </div>
+               
             </section>
         </div>
     </div>
